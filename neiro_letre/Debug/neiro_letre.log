@@ -1,0 +1,13 @@
+﻿  neiro_letre.cpp
+D:\2 курс 1 сем\huawei\neiro_letre\neiro_letre\neiro_letre.cpp(45,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\2 курс 1 сем\huawei\neiro_letre\neiro_letre\neiro_letre.cpp(65,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\2 курс 1 сем\huawei\neiro_letre\neiro_letre\neiro_letre.cpp(121,13): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\2 курс 1 сем\huawei\neiro_letre\neiro_letre\neiro_letre.cpp(487,45): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+D:\2 курс 1 сем\huawei\neiro_letre\neiro_letre\neiro_letre.cpp(490,51): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+D:\2 курс 1 сем\huawei\neiro_letre\neiro_letre\neiro_letre.cpp(509,40): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+D:\2 курс 1 сем\huawei\neiro_letre\neiro_letre\neiro_letre.cpp(512,40): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+D:\2 курс 1 сем\huawei\neiro_letre\neiro_letre\neiro_letre.cpp(515,40): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+D:\2 курс 1 сем\huawei\neiro_letre\neiro_letre\neiro_letre.cpp(518,40): warning C4244:  аргумент: преобразование "double" в "int", возможна потеря данных
+D:\2 курс 1 сем\huawei\neiro_letre\neiro_letre\neiro_letre.cpp(552,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\2 курс 1 сем\huawei\neiro_letre\neiro_letre\neiro_letre.cpp(633,13): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+  neiro_letre.vcxproj -> D:\2 курс 1 сем\huawei\neiro_letre\Debug\neiro_letre.exe
